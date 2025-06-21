@@ -80,8 +80,8 @@ h) Update data kantor cabang dengan kode KC002
 UPDATE Cabang
 SET Nama = 'KC Ambarukmo',
     Alamat = 'Ambarukmo',
-    Jml_Nasabah = 15
-WHERE Kd_cabang = 'KC002';
+    Jumlah_Nasabah = 15
+WHERE Kode_cabang = 'KC002';
 
 i) Hapus data kantor cabang dengan jumlah nasabah kurang dari 5
 
