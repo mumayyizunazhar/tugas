@@ -91,7 +91,7 @@ j) Update data nasabah dengan kode N0010
 
 UPDATE Nasabah
 SET Alamat = 'Monjali', Saldo = 9000000
-WHERE Kd_Nasabah = 'N0010';
+WHERE Kode_Nasabah = 'N0010';
 
 k) Hapus semua nasabah dengan alamat Terban
 
